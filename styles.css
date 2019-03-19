@@ -46,6 +46,10 @@ body{
     bottom:400px;
 
 }
+.mountain{
+    width: auto;
+    margin: auto;
+}
 .desc-par{
     font-size: 2rem;
 }
